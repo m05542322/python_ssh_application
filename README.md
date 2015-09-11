@@ -88,6 +88,11 @@ $scope.cookieGet = function(key){
 }
 ```
 
+```python
+for item in array:
+    print item
+```    
+
 
 # References
 
